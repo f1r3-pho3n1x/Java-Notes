@@ -22,6 +22,9 @@ public class helloworld {
 # 2 How Compilation works
 - At the compile time, the Java file is compiled by java compiler and converts the java code into bytecode.
 - At compilation time there is not interaction with OS, its just btw the compiler and your code.
+```
+"Java Code -> compiler -> Bytecode"
+```
 
 # 3 How Runtime works
 ```
